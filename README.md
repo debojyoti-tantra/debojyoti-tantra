@@ -13,7 +13,5 @@
 | nodeJS | React | Vite  |
 |--|--|--|
 | <img src="https://academyclass.com/wp-content/uploads/2021/11/ACCL-NodeJS.png" height=60px > | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" height=70px > | <img src="https://th.bing.com/th/id/OIP.OWUxNWKn_02KOQ7ltyGsjQHaHa?w=500&h=500&dpr=1.9&pid=ImgDetMain" height=70px > |
-|--|--|--|
-| <br>NextJS</br> | <br>Express</br> | <br>MongoDB</br> |
-|--|--|--|
+| <b>NextJS</b> | <b>Express</b> | <b>MongoDB</b> |
 | <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" height=62.6px > | <img src="https://media.licdn.com/dms/image/D4D12AQEoYssSDR6VuA/article-cover_image-shrink_720_1280/0/1708761603252?e=2147483647&v=beta&t=Owpob53Sdv9TpYaKaAHsMunv-KD5t3kv25byg2UcTvw" height=47.4px > |  <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" height=70px > |
